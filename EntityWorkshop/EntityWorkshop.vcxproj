@@ -115,14 +115,14 @@
     </QtRcc>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="EntityWorkshop.cpp" />
-    <ClCompile Include="main.cpp" />
+    <ClCompile Include="src\MainWindow\EntityWorkshop.cpp" />
+    <ClCompile Include="src\main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <QtMoc Include="EntityWorkshop.hpp" />
+    <QtMoc Include="src\MainWindow\EntityWorkshop.hpp" />
   </ItemGroup>
   <ItemGroup>
-    <QtUic Include="EntityWorkshop.ui" />
+    <QtUic Include="src\MainWindow\EntityWorkshop.ui" />
   </ItemGroup>
   <ItemGroup>
     <QtRcc Include="EntityWorkshop.qrc" />

@@ -1,4 +1,4 @@
-#include "EntityWorkshop.hpp"
+#include "src/MainWindow/EntityWorkshop.hpp"
 #include <QtWidgets/QApplication>
 
 int main(int argc, char *argv[])
